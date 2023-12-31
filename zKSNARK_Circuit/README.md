@@ -1,4 +1,4 @@
-# ZK-SNARKs_Circuit
+# Polygon zkEVM Project- ZK-SNARKs_Circuit
 
 This project is an example of using zk-SNARKs to generate a proof of computation and verify it on an Ethereum network (Sepolia or Mumbai Testnet).
 Create a circuit using the circom programming language that implements the following logical gate:
@@ -50,4 +50,4 @@ Verifier deployed to 0x8142c1b31A093C4f9031281CB36fd61b62FE5ff9
 Verifier result: true
 ```
 ## Author
-This project is created by Kislay Kaushal
+This project is created by Aniket Raj
